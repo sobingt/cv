@@ -1,0 +1,249 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Bachelor of Engineering ",
+    "projects": "Summary",
+    "awards": "",
+    "work": "Learning Experience",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Sobin George Thomas",
+    "email": "sobingt@gmail.com",
+    "phone": "8097415085",
+    "location": {
+      "address": "Mumbai, India"
+    },
+    "website": "sobingt.com"
+  },
+  "education": [
+    {
+      "institution": "Xavier Institute of Engineering ",
+      "location": "Mumbai, India",
+      "area": "Computer Science",
+      "startDate": "June 2008",
+      "endDate": "May 2011",
+      "gpa": "6.2",
+      "studyType": "Bachelor of Engineering "
+    }
+  ],
+  "work": [
+    {
+      "company": "Documint.ai ",
+      "location": "Mumbai, India",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Documint.ai is a smart cloud-based solution enabling organizations to convert documents (e.g., invoices, receipts, KYC papers) into structured spreadsheet data leveraging neural network, artificial intelligence, and machine learning to improve speed and accuracy with every document it scans.",
+        "Documint.ai also got selected as one of the Top 5 innovative startups by Samsung, South Korea. Also got mentored and trained for two weeks by Korean data scientists at IIIT, Bangalore. Video link to the product http://bit.ly/docaiv2 ."
+      ],
+      "position": "Founder and Chief Data Scientist. ",
+      "startDate": "March 2018"
+    },
+    {
+      "highlights": [
+        "CHD Group is a public health organization working to change human destinies forever through our public health initiatives and to ensure optimum health & well-being which provides to all irrespective of their socioeconomic stand in society. ",
+        "One of the primary responsibility was to leading the internal technology and data group inside the organization to create better healthcare decision by leveraging Machine Learning and Deep Learning."
+      ],
+      "endDate": "Dec 2018",
+      "startDate": "Dec 2017",
+      "company": "CHD Group - Center For Health and Development.",
+      "position": "Chief Technology Officer - Data",
+      "location": "Mumbai, India."
+    },
+    {
+      "company": "3Y Ventures",
+      "location": "Mumbai, India",
+      "website": "",
+      "endDate": "Oct 2018",
+      "highlights": [
+        "3Y Ventures - Tag8 is a smart enterprise asset, management solution provider that collaborates to bring a wide selection of ready-to-go apps, online data management software, and cloud storage. The company specializes in providing efficient asset management solutions for businesses in various sectors.",
+        "One of the primary responsibility was leading, hiring and mentoring the technology team and setting up the organization's technology delivery processes and pipelines at large enterprises like HDFC, Vodafone, L&T and so on."
+      ],
+      "position": "Chief Information Officer - Consulting",
+      "startDate": "March 2018"
+    },
+    {
+      "highlights": [
+        "Born out of love of all things food, Foodees was a hospitality company which prides itself in being aficionados of good food and drink. An affordable meal to pleasing every palette  via catering & tiffin/dabba/lunch service and delivery all over Mumbai from Monday to Friday",
+        "One of the primary responsibility was in product management, operation, finance, and marketing by executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, using predictive data modeling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems. "
+      ],
+      "startDate": "Feb 2015",
+      "endDate": "Oct 2017",
+      "company": "Foodees",
+      "position": "Co-Founder ",
+      "location": "Mumbai, India."
+    },
+    {
+      "highlights": [
+        "Startup Mumbai is Mumbai's largest entrepreneur community with 80,000 plus members ranging from entrepreneur, developers, designers, marketers, and students.",
+        "Startup Mumbai regularly hosts meetups, sessions, hackathons with various coworking partners in the city. The annual Startup Mumbai meetup gets more than 1000+ RSVPs since the last four years and is one of the hottest and awaited entrepreneur event in the city."
+      ],
+      "company": "Startup Mumbai",
+      "endDate": "Present",
+      "startDate": "Jan 2015",
+      "location": "Mumbai, India",
+      "position": "Founder"
+    },
+    {
+      "highlights": [
+        "Codegurukul is a premium coding school designed to train students without programming skills for a job as a Junior Programmer in 6-24 weeks period by providing a highly focused learning program in an immersive programming environment like application development, machine learning, and blockchain.",
+        "Codegurukul Corporate Training is a suite of best-in-class training processes that enable customers to reduce costs, sharpen their business focus and obtain quantifiable results."
+      ],
+      "company": "Codegurkul",
+      "position": "Co-Founder and Chief Mentor",
+      "location": "Mumbai, India",
+      "startDate": "Nov 2013",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Geekout was series of fantabulous co-working spaces where you can work and collaborate on your personal or community projects. Started at Lokhandwala, Mumbai as the first launchpad which was the only 24hr operating co-working space in the city with an in-house mini kitchen and further into two more prime locations in the city. ",
+        "Geekout hosted and conducted regular meetups, hackathons and geek camps at each of their location creating Mumbai's largest entrepreneur community called Startup Mumbai.",
+        "Geekout was listed in various national and local media outlets as one of the top 3 coworking in Mumbai, the financial capital of India and top 25 coworking in the country."
+      ],
+      "company": "Geekout",
+      "endDate": "Jan 2016",
+      "startDate": "Jun 2014",
+      "location": "Mumbai, India",
+      "position": "Founder"
+    },
+    {
+      "highlights": [
+        "Codeniti was a non-profit tech initiative which partnered with NASSCOM, Government of Goa, Teach of India, Goonji, YUVA, and other local government and NGO bodies to create reusable opensource social solutions.",
+        "Codeniti has conducted series of 16-24 hour social hackathons in various cities where they explored the city's social problem that can be solved by technology with an NGO or local government body. "
+      ],
+      "company": "Codeniti",
+      "position": "Co-Founder",
+      "location": "Mumbai, India",
+      "endDate": "May 2015",
+      "startDate": "Nov 2013"
+    },
+    {
+      "highlights": [
+        "Bit Brothers was web agency born out of pure love for digital craftsmanship and the desire to do quality interactive work. We are a small and agile team of talented creatives and technologists that work closely with clients to deliver world-class digital experiences. We’re a close team of creatives, designers & developers who work together to create beautiful, engaging digital experiences. We build unique, effective experiences for screens large and small. We work with multiple platforms to deliver an experience that’s worth sharing."
+      ],
+      "company": "Bit Brothers",
+      "position": "Founder and CEO",
+      "location": "Mumbai, India",
+      "startDate": "Jan 2009",
+      "endDate": "Dec 2014"
+    },
+    {
+      "highlights": [
+        "Tunebasket was a cloud-based music player for Android and PC based out of New Jersey, USA. It lets you enjoy your music on the go and helps you manage multiple devices with ease.",
+        "One of the primary responsibility was to implementing cloud-based media player UI/UX, desktop-based, cross-platform media player based in QT and Android app on the same."
+      ],
+      "company": "Tunebasket Inc",
+      "position": "Software Engineer",
+      "location": "Mumbai, India",
+      "startDate": "Jan 2012",
+      "endDate": "Feb 2013"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "Python",
+        "C++",
+        "R",
+        "PHP",
+        "Bash",
+        "HTML5",
+        "CSS3"
+      ],
+      "name": "Programming Language "
+    },
+    {
+      "keywords": [
+        "MySQL",
+        "Postgresql",
+        "MongoDB",
+        "Redis",
+        "SQLite",
+        "Neo4J"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Machine Learning",
+        "Data Visualization",
+        "Modeling",
+        "Deep Learning",
+        "Debugging"
+      ],
+      "name": "Data Science"
+    },
+    {
+      "keywords": [
+        "Nodejs",
+        "jQuery",
+        "React",
+        "Angular",
+        "TensorFlow",
+        "Keras",
+        "D3"
+      ],
+      "name": "Frameworks & Libraries"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "RabbitMQ",
+        "ZeroMQ"
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Amazon Web Service",
+        "Google Cloud"
+      ],
+      "name": "Public clouds"
+    },
+    {
+      "keywords": [
+        "PCI-DSS",
+        "CISA",
+        "OWASP"
+      ],
+      "name": "Information security"
+    },
+    {
+      "keywords": [
+        "Blockchain",
+        "Cryptography"
+      ],
+      "name": "Other interests"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        null
+      ],
+      "description": "A data-driven entrepreneur experienced in all aspects of business formation,  product management, operation, finance, and management. A visionary product developer with in-depth education in research and data. Effective communicator and motivator who identifies and leverages assets in teammates to reach organizational goals. A relentless optimist who believes there is no failure, only feedback. "
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "projects",
+    "work",
+    "education",
+    "skills",
+    "awards"
+  ]
+}

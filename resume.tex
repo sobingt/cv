@@ -1,0 +1,181 @@
+\documentclass[a4paper]{article}
+    \usepackage{fullpage}
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{textcomp}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage[margin=1in]{geometry}
+    \textheight=10in
+    \pagestyle{empty}
+    \raggedright
+
+    %\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+    \begin{document}
+\vspace*{-40pt}
+
+    
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge \scshape {Sobin George Thomas}}\\
+	Mumbai, India $\cdot$ sobingt@gmail.com $\cdot$ 8097415085 $\cdot$ sobingt.com\\
+\end{center}
+
+\header{Summary}
+A data-driven entrepreneur experienced in all aspects of business formation, product management, operation, finance, and management. A visionary product developer with in-depth education in research and data. Effective communicator and motivator who identifies and leverages assets in teammates to reach organizational goals. A relentless optimist who believes there is no failure, only feedback.\\
+\vspace*{2mm}
+
+%==== Experience ====%
+\header{Learning Experience}
+\vspace{1mm}
+
+\textbf{Documint.ai} \hfill Mumbai, India\\
+\textit{Founder and Chief Data Scientist.} \hfill March 2018 | Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Documint.ai is a smart cloud-based solution enabling organizations to convert documents (e.g., invoices, receipts, KYC papers) into structured spreadsheet data leveraging neural network, artificial intelligence, and machine learning to improve speed and accuracy with every document it scans.
+	\item Documint.ai also got selected as one of the Top 5 innovative startups by Samsung, South Korea. Also got mentored and trained for two weeks by Korean data scientists at IIIT, Bangalore. Video link to the product http://bit.ly/docaiv2 .
+\end{itemize}
+\textbf{CHD Group - Center For Health and Development.} \hfill Mumbai, India.\\
+\textit{Chief Technology Officer - Data} \hfill Dec 2017 | Dec 2018\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item CHD Group is a public health organization working to change human destinies forever through our public health initiatives and to ensure optimum health \& well-being which provides to all irrespective of their socioeconomic stand in society.
+	\item One of the primary responsibility was to leading the internal technology and data group inside the organization to create better healthcare decision by leveraging Machine Learning and Deep Learning.
+\end{itemize}
+\textbf{3Y Ventures} \hfill Mumbai, India\\
+\textit{Chief Information Officer - Consulting} \hfill March 2018 | Oct 2018\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item 3Y Ventures - Tag8 is a smart enterprise asset, management solution provider that collaborates to bring a wide selection of ready-to-go apps, online data management software, and cloud storage. The company specializes in providing efficient asset management solutions for businesses in various sectors.
+	\item One of the primary responsibility was leading, hiring and mentoring the technology team and setting up the organization\textquotesingle{}s technology delivery processes and pipelines at large enterprises like HDFC, Vodafone, L\&T and so on.
+\end{itemize}
+\textbf{Foodees} \hfill Mumbai, India.\\
+\textit{Co-Founder} \hfill Feb 2015 | Oct 2017\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Born out of love of all things food, Foodees was a hospitality company which prides itself in being aficionados of good food and drink. An affordable meal to pleasing every palette via catering \& tiffin/dabba/lunch service and delivery all over Mumbai from Monday to Friday
+	\item One of the primary responsibility was in product management, operation, finance, and marketing by executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing. Experienced at creating data regression models, using predictive data modeling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems.
+\end{itemize}
+\textbf{Startup Mumbai} \hfill Mumbai, India\\
+\textit{Founder} \hfill Jan 2015 | Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Startup Mumbai is Mumbai\textquotesingle{}s largest entrepreneur community with 80,000 plus members ranging from entrepreneur, developers, designers, marketers, and students.
+	\item Startup Mumbai regularly hosts meetups, sessions, hackathons with various coworking partners in the city. The annual Startup Mumbai meetup gets more than 1000+ RSVPs since the last four years and is one of the hottest and awaited entrepreneur event in the city.
+\end{itemize}
+\textbf{Codegurkul} \hfill Mumbai, India\\
+\textit{Co-Founder and Chief Mentor} \hfill Nov 2013 | Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Codegurukul is a premium coding school designed to train students without programming skills for a job as a Junior Programmer in 6-24 weeks period by providing a highly focused learning program in an immersive programming environment like application development, machine learning, and blockchain.
+	\item Codegurukul Corporate Training is a suite of best-in-class training processes that enable customers to reduce costs, sharpen their business focus and obtain quantifiable results.
+\end{itemize}
+\textbf{Geekout} \hfill Mumbai, India\\
+\textit{Founder} \hfill Jun 2014 | Jan 2016\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Geekout was series of fantabulous co-working spaces where you can work and collaborate on your personal or community projects. Started at Lokhandwala, Mumbai as the first launchpad which was the only 24hr operating co-working space in the city with an in-house mini kitchen and further into two more prime locations in the city.
+	\item Geekout hosted and conducted regular meetups, hackathons and geek camps at each of their location creating Mumbai\textquotesingle{}s largest entrepreneur community called Startup Mumbai.
+	\item Geekout was listed in various national and local media outlets as one of the top 3 coworking in Mumbai, the financial capital of India and top 25 coworking in the country.
+\end{itemize}
+\textbf{Codeniti} \hfill Mumbai, India\\
+\textit{Co-Founder} \hfill Nov 2013 | May 2015\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Codeniti was a non-profit tech initiative which partnered with NASSCOM, Government of Goa, Teach of India, Goonji, YUVA, and other local government and NGO bodies to create reusable opensource social solutions.
+	\item Codeniti has conducted series of 16-24 hour social hackathons in various cities where they explored the city\textquotesingle{}s social problem that can be solved by technology with an NGO or local government body.
+\end{itemize}
+\textbf{Bit Brothers} \hfill Mumbai, India\\
+\textit{Founder and CEO} \hfill Jan 2009 | Dec 2014\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Bit Brothers was web agency born out of pure love for digital craftsmanship and the desire to do quality interactive work. We are a small and agile team of talented creatives and technologists that work closely with clients to deliver world-class digital experiences. We’re a close team of creatives, designers \& developers who work together to create beautiful, engaging digital experiences. We build unique, effective experiences for screens large and small. We work with multiple platforms to deliver an experience that’s worth sharing.
+\end{itemize}
+\textbf{Tunebasket Inc} \hfill Mumbai, India\\
+\textit{Software Engineer} \hfill Jan 2012 | Feb 2013\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Tunebasket was a cloud-based music player for Android and PC based out of New Jersey, USA. It lets you enjoy your music on the go and helps you manage multiple devices with ease.
+	\item One of the primary responsibility was to implementing cloud-based media player UI/UX, desktop-based, cross-platform media player based in QT and Android app on the same.
+\end{itemize}
+
+%==== Education ====%
+\header{Bachelor of Engineering}
+\textbf{Xavier Institute of Engineering}\hfill Mumbai, India\\
+Bachelor of Engineering Computer Science \textit{GPA: 6.2} \hfill June 2008 - May 2011\\
+\vspace{2mm}
+
+\header{Skills}
+\begin{tabular}{ l l }
+	Programming Language:    & Javascript, Python, C++, R, PHP, Bash, HTML5, CSS3                       \\
+	Databases:               & MySQL, Postgresql, MongoDB, Redis, SQLite, Neo4J                         \\
+	Data Science:            & Machine Learning, Data Visualization, Modeling, Deep Learning, Debugging \\
+	Frameworks \& Libraries: & Nodejs, jQuery, React, Angular, TensorFlow, Keras, D3                    \\
+	Tools:                   & Docker, Kubernetes, RabbitMQ, ZeroMQ                                     \\
+	Public clouds:           & Amazon Web Service, Google Cloud                                         \\
+	Information security:    & PCI-DSS, CISA, OWASP                                                     \\
+	Other interests:         & Blockchain, Cryptography                                                 \\
+\end{tabular}
+\vspace{2mm}
+
+
+
+\ 
+\end{document}
